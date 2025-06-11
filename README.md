@@ -36,4 +36,4 @@ The Iris dataset is used. It has 3 classes of 150 flowers each:
 
 ## Author
 
-[Your Name]
+UWINEZA ERNESTINE 2309000664
